@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/k1gwkZ64YyWWmEv7fE/giphy.gif" width="42"> 👋Hola, yo soy Jhonn Nicoll <img src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="42"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/k1gwkZ64YyWWmEv7fE/giphy.gif" width="42"> 👋Hola, soy Jhonn Nicoll <img src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="42"></h1>
 <br>
 - 👀 Estoy interesado en programar aplicaciones web con Django (python) y Spring (java)<br>
 - 🌱 Actualmente estoy aprendiendo a desarrollar aplicaciones web con python<br>
