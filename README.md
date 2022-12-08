@@ -4,6 +4,9 @@
 - 🌱 Actualmente estoy aprendiendo a desarrollar aplicaciones web con Django<br>
 - 💞️ Busco colaborar en proyectos relacionados al desarrollo de aplicaciones<br>
 
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jnicoll12&theme=algolia" alt="jnicoll12"  /></p>
+
 ### 📫💻  ¿Quieres contactarme?, vamos!
 <p align="center">
 	<a href="mailto:jruiz.opb@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
