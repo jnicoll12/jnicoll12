@@ -4,7 +4,7 @@
 - 🌱 Actualmente estoy aprendiendo a desarrollar aplicaciones web con python<br>
 - 💞️ Busco colaborar en proyectos relacionados al desarrollo<br>
 - 📫 Puedes contactarme enviando un mail a jruiz.opb@gmail.com<br>
-- 
+
 ### 🧑🏼‍💻 ¿Quieres contactarme?, vamos!
 <p align="center">
 	<a href="mailto:jruiz.opb@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
