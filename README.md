@@ -4,7 +4,7 @@
 - 🌱 Actualmente estoy aprendiendo a desarrollar aplicaciones web con Django<br>
 - 💞️ Busco colaborar en proyectos relacionados al desarrollo de aplicaciones<br>
 
-### 🔥 Streak Stats
+### 🔥 Estadísticas
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jnicoll12&theme=algolia" alt="jnicoll12"  /></p>
 
 ### 📫💻  ¿Quieres contactarme?, vamos!
